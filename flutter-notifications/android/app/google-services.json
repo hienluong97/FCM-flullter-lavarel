@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "253818312662",
+    "project_id": "fcm-test-106aa",
+    "storage_bucket": "fcm-test-106aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253818312662:android:6083e4d4b940413fda7677",
+        "android_client_info": {
+          "package_name": "com.example.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253818312662-h69ag1j825tm66hb2ru213sjf5co1gl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCcYDVmuYwTo-ogG3tnq0GIxqYJdZF-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253818312662-h69ag1j825tm66hb2ru213sjf5co1gl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253818312662-dnq6kal47u6as86ssheb1526gjfheg60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

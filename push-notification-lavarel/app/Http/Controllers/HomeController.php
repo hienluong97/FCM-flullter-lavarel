@@ -51,7 +51,7 @@ class HomeController extends Controller
 
         $SERVER_API_KEY = 'AAAAOxjAF9Y:APA91bHbo5ftHfmHdrmMCGMqHBPqlbaF_aTjBFtskjAj0SrHMn9o5Hsg_U_oIj2pozKB3_qbESgH7ZZMdeoUEufCjRlxNoIg0E2qaooStfTdwCqiLOAIfA_030Doku_yX8u3IbnePyT_';
 
-        $appToken = "fVUMaOBZTTWqGyv1MkTb5d:APA91bFcRbhWr5iEgNPgRZtfa_Hs-Py3HuBE_ZDFz3nJwcAJrlJ6Y1QQExAo5X-8HTO8IZKm5Pz4xeefra-I97fZitr5146nXvwjRUtaArlHb3PiDm3X5l5n8jZjrJpsnDEMWrhPhX5l";
+        $appToken = "ettm9qQWRWiT1knfouV8l5:APA91bFEvcejtaPOIwg-eswlTAF5UdSo2Ylwt8cMUOJIlQfFn-jTl6vGM2Ul-qKx4TFfbVJ3uDpeWupoDfMWBajZ1KAEnKZNVqn0fOT4Fo3AnZqRTYBDlr6OkqnGe2joyO5VkchUtGRh";
 
 
         $firebaseToken[] = $appToken;
